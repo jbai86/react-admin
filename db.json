@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Troquei o post 1",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2022"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "13-01-2022"
+    },
+    {
+      "title": "Post 4",
+      "body": "four body",
+      "publishedAt": "2023-02-25",
+      "id": "Kb9f-2G"
+    },
+    {
+      "title": "a",
+      "body": "b",
+      "publishedAt": "2023-02-25",
+      "id": "jjcqdQh"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jhon Doe",
+      "email": "jhon@example.com"
+    }
+  ]
+}
